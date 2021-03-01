@@ -1,7 +1,7 @@
 # Martin Ho's Notes
 
 ## Summary
-This  repository contains all the notes taken by [Martin Ho] (https://github.com/mwkho) for the Lighthouse Labs Web Development Bootcamp.
+This  repository contains all the notes taken by [Martin] (https://github.com/mwkho) for the Lighthouse Labs Web Development Bootcamp.
 
 ### Table of Contents
 * [Week 1](Week_1)
